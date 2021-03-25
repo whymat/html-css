@@ -1,0 +1,13 @@
+body {
+	background-color: #FA8072;
+	background-image: url("littlemixconfetti.png");
+	background-size: 960px;
+}
+
+p {
+	color:white;
+	font-size:25px;
+	font-family:century gothic;
+	font-style:italic;
+	margin-left: 1em;
+}
